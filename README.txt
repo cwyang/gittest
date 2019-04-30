@@ -1,4 +1,6 @@
 This is a readme.txt
 
 Nice to meet you!
-Hallo, world!
+Hello, world!
+
+여러분, 안녕하세요! (In Korean)
